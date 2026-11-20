@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Freeside",
+      "hasCanvas": false,
+      "bodyTextLen": 491,
+      "bodyTextHash": "d5b7b948a3513dfe096137d7c4b741b57de69101103d668b4e60398c83fb4d73",
+      "bodyTextPrefix": "Freeside Free to use New chat No chats yet. No account. Chats st",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Freeside",
+      "hasCanvas": false,
+      "bodyTextLen": 386,
+      "bodyTextHash": "c1cc303fa264316a6bb524663ae9f1fc8218f9d9bf293dc51e8da3d362895300",
+      "bodyTextPrefix": "Freeside Ask anything. Questions, rewrites, summaries, and plans",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
